@@ -9,7 +9,7 @@ function App() {
   return (
     <Provider store={store}>
       <div className="App">
-        <p>Test change after new login</p>
+        <p>Test change  new login</p>
       </div>
     </Provider>
   )
